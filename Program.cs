@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Feature1");
+
+            bool juuentiiä = true;
+
+            if (juuentiiä == true )
+            {
+                juuentiiä = false;
+            }
         }
     }
 }
